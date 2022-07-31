@@ -2,4 +2,15 @@
 
 BST JS
 
-     Binary search tree implemented.
+     Binary search tree implementation.
+     
+     A Node
+    ----------
+     class Node{
+         constructor(data)
+         {
+             this.data = data;
+             this.left = null;
+             this.right = null;
+         }
+     }
