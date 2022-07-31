@@ -14,3 +14,28 @@ BST JS
              this.right = null;
          }
      }
+     
+Node root
+       
+       class BinarySearchTree{
+         constructor()
+         {
+             // root of a binary search tree
+             this.root = null;
+         }
+
+         function to be implemented
+        ----------------------------------
+         // insert(data)
+         // remove(data)
+
+
+         Helper function
+         ------------------
+         // findMinNode()
+         // getRootNode()
+         // inorder(node)
+         // preorder(node)              
+         // postorder(node)
+         // search(node, data)
+     }
