@@ -41,6 +41,7 @@ Node root
      }
 
 Insert data
+
          // helper method which creates a new node to
           // be inserted and calls insertNode
           insert(data)
